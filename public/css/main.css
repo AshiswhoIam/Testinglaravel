@@ -1,0 +1,15 @@
+div.home {
+    background-color:pink; 
+    width: 700px;
+    border: 15px solid blueviolet;
+    margin:20px;
+    padding:20px;    
+    text-align: center;
+}
+h1.center{
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+  }
